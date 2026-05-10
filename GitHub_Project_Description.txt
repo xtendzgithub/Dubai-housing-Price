@@ -1,0 +1,3 @@
+# Short GitHub Project Description
+
+An interactive Power BI dashboard analyzing Dubai real estate prices with investment insights, neighborhood analysis, and predictive trends using Excel and CSV datasets.
