@@ -89,25 +89,6 @@ Dubai-House-Price-Prediction/
 
 ---
 
-# 📊 Recommended Dashboard Improvements
-
-## Add These Visuals
-- Heatmap of property prices
-- Forecasting chart
-- ROI comparison chart
-- Top 10 expensive neighborhoods
-- Price trend by year
-- Interactive map visualization
-
-## Add These KPIs
-- Median Price
-- ROI %
-- Avg Bedrooms
-- Avg Bathrooms
-- Fastest Growing Area
-
----
-
 # 🌟 Why This Project Stands Out
 
 This project demonstrates:
